@@ -8,12 +8,6 @@
 - Compiler implementation for a practical discipline of my graduation, using python programming language and PyCharm IDE.
 - Development of a game for improve knowledge aquisition in histology classes, which is a important subject in health graduation courses, using java programming language and Android Studio IDE.
 
-## My GitHub Statistics
-  <a href="https://github.com/victoriaogomes">
-    <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=victoriaogomes&show_icons=true&theme=buefy&include_all_commits=true&count_private=true">
-    <img height="180em"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victoriaogomes&layout=compact&langs_count=8&theme=buefy">
-
-
 ## Get in touch with me:
 <p align="left">
 <a href="https://twitter.com/_xinxila" target="blank"><img align="center" src="https://github.com/victoriaogomes/victoriaogomes/blob/5fa0f9f3f43f4f8e2da4e0f2657456d6e97fcb61/icons/twitter.svg" alt="_xinxila" height="30" width="40" /></a>
