@@ -6,7 +6,7 @@
 ## Projects that I'm currently working on
 <p align="justify"><img height="7em" align="center" src="https://github.com/victoriaogomes/victoriaogomes/blob/866a8fc642a8b3e797bcaefa7a2d5fe8e399b55f/icons/dot.svg"> &nbsp;Development of a game for help children improve reading skills, using flutter and dart programming language and Android Studio IDE. </p>
 <p align="justify"><img height="7em" align="center" src="https://github.com/victoriaogomes/victoriaogomes/blob/866a8fc642a8b3e797bcaefa7a2d5fe8e399b55f/icons/dot.svg"> &nbsp;Compiler implementation for a practical discipline of my graduation, using python programming language and PyCharm IDE.</p>
-<p align="justify"><img height="7em" align="center" src="https://github.com/victoriaogomes/victoriaogomes/blob/866a8fc642a8b3e797bcaefa7a2d5fe8e399b55f/icons/dot.svg"> &nbsp;Development of a game for improve knowledge aquisition in histology classes, which is a important subject in health graduation courses, using java programming language and Android Studio IDE.</p>
+<p align="justify"><img height="7em" align="center" src="https://github.com/victoriaogomes/victoriaogomes/blob/866a8fc642a8b3e797bcaefa7a2d5fe8e399b55f/icons/dot.svg"> Development of a game for improve knowledge aquisition in histology classes, which is a important subject in health graduation courses, using java programming language and Android Studio IDE.</p>
 
 ## My programming languages
   <a href="https://github.com/victoriaogomes">
