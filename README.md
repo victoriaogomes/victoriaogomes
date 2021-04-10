@@ -1,6 +1,6 @@
-## Hi there! <img align="center" alt="Rafa-yoda" height="50" width="50" src="https://media.tenor.com/images/380300aebf287514a9d2035d7bdad03a/tenor.gif"> 
+## Hi there! <img align="center" height="50" width="50" src="https://media.tenor.com/images/380300aebf287514a9d2035d7bdad03a/tenor.gif"> 
 
-<p> I am Victória. I'm a student pursuing bachelors's degree in Computer Engineering from State University of Feira de Santana (UEFS), and I am also a scientific initiation fellow at Applied Digital Entertainment Laboratory (LEnDA). <img align="center" alt="myrlla-totoro" height="40" width="35" src="https://media.tenor.com/images/514c53df2a6487a37279da3d77f3a43f/tenor.gif"> 
+<p> I am Victória. I'm a student pursuing bachelors's degree in Computer Engineering from State University of Feira de Santana (UEFS), and I am also a scientific initiation fellow at Applied Digital Entertainment Laboratory (LEnDA). <img align="center" height="40" width="35" src="https://media.tenor.com/images/514c53df2a6487a37279da3d77f3a43f/tenor.gif"> 
 </p>
   
 ## Projects that I'm currently working on: 
