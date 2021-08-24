@@ -15,7 +15,7 @@
 
 ## Get in touch with me
 <p align="left">
-<a href="https://twitter.com/_xinxila" target="blank"><img align="center" src="https://github.com/victoriaogomes/victoriaogomes/blob/5fa0f9f3f43f4f8e2da4e0f2657456d6e97fcb61/icons/twitter.svg" alt="_xinxila" height="30" width="40" /></a>
+<a href="https://twitter.com/xinxila_" target="blank"><img align="center" src="https://github.com/victoriaogomes/victoriaogomes/blob/5fa0f9f3f43f4f8e2da4e0f2657456d6e97fcb61/icons/twitter.svg" alt="_xinxila" height="30" width="40" /></a>
   &bull;
 <a href="https://linkedin.com/in/victoriaogomes" target="blank"><img style="background-color: #abc" align="center" src="https://github.com/victoriaogomes/victoriaogomes/blob/main/icons/linkedin.svg" alt="victoriaogomes" height="30" width="40" /></a>
   &bull;
